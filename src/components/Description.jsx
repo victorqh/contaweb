@@ -1,7 +1,7 @@
 function Description() {
     return (
         <div className="Description">
-            En la Cámara de Contadores y Auditores del Perú somos un equipo comprometido con la excelencia en la formación y el desarrollo profesional. Nos especializamos en crear cursos innovadores y de alta calidad diseñados para contadores y auditores que buscan destacar en sus carreras. Con años de experiencia en el sector, entendemos las necesidades del mercado y ofrecemos soluciones educativas que empoderan a nuestros miembros, proporcionando las herramientas necesarias para afrontar los desafíos del mundo financiero actual.
+            Nos dedicamos a ofrecer formación y desarrollo profesional de calidad para contadores y auditores. Con cursos innovadores y años de experiencia, proporcionamos las herramientas necesarias para enfrentar los desafíos del entorno financiero actual.
             <button className="IngresarButton">INGRESAR</button>
         </div>
     );
